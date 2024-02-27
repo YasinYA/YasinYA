@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasinYA
 - 👀 I’m interested in building SaaS products
-- 🌱 I’m currently learning Typescript, Golang
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Typescript, React, Django and Golang projects
 - 📫 How to reach me @yasinyusufaxmed at twitter
 
